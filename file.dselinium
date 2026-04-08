@@ -1,0 +1,14 @@
+# Simple Python example
+
+name = "Prasanna"
+project = "Docker"
+
+print("Hello", name)
+print("Welcome to", project)
+
+a = 10
+b = 20
+
+sum_value = a + b
+
+print("Sum is:", sum_value)
